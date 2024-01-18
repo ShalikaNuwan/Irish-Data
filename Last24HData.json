@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "Date": "2023-08-31",
+            "Generation": [
+                {
+                    "fuel": "batteries",
+                    "val": 0.17614
+                },
+                {
+                    "fuel": "cpo",
+                    "val": 12.29833
+                },
+                {
+                    "fuel": "gas",
+                    "val": 114.89477
+                },
+                {
+                    "fuel": "hydro",
+                    "val": 3.77675
+                },
+                {
+                    "fuel": "pump",
+                    "val": 1.0328
+                },
+                {
+                    "fuel": "other",
+                    "val": 4.41501
+                },
+                {
+                    "fuel": "solar",
+                    "val": 2.7382
+                },
+                {
+                    "fuel": "wind",
+                    "val": 87.29
+                }
+            ]
+        }
+    ]
+}
