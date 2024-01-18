@@ -1,0 +1,1892 @@
+{
+    "data": {
+        "Date": "2023-08-31",
+        "data": [
+            {
+                "time": "00:00:00",
+                "fuel": "wind",
+                "val": 2212
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "wind",
+                "val": 2199
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "wind",
+                "val": 2222
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "wind",
+                "val": 2275
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "wind",
+                "val": 2393
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "wind",
+                "val": 2537
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "wind",
+                "val": 2632
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "wind",
+                "val": 2596
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "wind",
+                "val": 2549
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "wind",
+                "val": 2607
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "wind",
+                "val": 2659
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "wind",
+                "val": 2712
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "wind",
+                "val": 2770
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "wind",
+                "val": 2770
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "wind",
+                "val": 2667
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "wind",
+                "val": 2541
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "wind",
+                "val": 2471
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "wind",
+                "val": 2404
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "wind",
+                "val": 2350
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "wind",
+                "val": 2320
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "wind",
+                "val": 2305
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "wind",
+                "val": 2314
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "wind",
+                "val": 2319
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "wind",
+                "val": 2287
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "wind",
+                "val": 2303
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "wind",
+                "val": 2416
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "wind",
+                "val": 2525
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "wind",
+                "val": 2577
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "wind",
+                "val": 2601
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "wind",
+                "val": 2504
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "wind",
+                "val": 2354
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "wind",
+                "val": 2283
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "wind",
+                "val": 2224
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "wind",
+                "val": 2156
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "wind",
+                "val": 2112
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "wind",
+                "val": 2032
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "wind",
+                "val": 1896
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "wind",
+                "val": 1887
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "wind",
+                "val": 1924
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "wind",
+                "val": 1869
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "wind",
+                "val": 1832
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "wind",
+                "val": 1823
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "wind",
+                "val": 1808
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "wind",
+                "val": 1792
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "wind",
+                "val": 1743
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "wind",
+                "val": 1641
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "wind",
+                "val": 1570
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "wind",
+                "val": 1668
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "batteries",
+                "val": -4.2
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "batteries",
+                "val": -4.33
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "batteries",
+                "val": -5.17
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "batteries",
+                "val": -7.98
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "batteries",
+                "val": -7.03
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "batteries",
+                "val": -3.8
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "batteries",
+                "val": -3.87
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "batteries",
+                "val": -4.14
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "batteries",
+                "val": -4.05
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "batteries",
+                "val": -3.63
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "batteries",
+                "val": -3.91
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "batteries",
+                "val": -5.41
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "batteries",
+                "val": -5.43
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "batteries",
+                "val": -4.19
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "batteries",
+                "val": -3.73
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "batteries",
+                "val": -3.49
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "batteries",
+                "val": -3.81
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "batteries",
+                "val": -3.76
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "batteries",
+                "val": -3.48
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "batteries",
+                "val": -3.24
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "batteries",
+                "val": -3.24
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "batteries",
+                "val": -0.36
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "batteries",
+                "val": -0.02
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "batteries",
+                "val": -3.99
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "batteries",
+                "val": -4.73
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "batteries",
+                "val": -4.23
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "batteries",
+                "val": -3.99
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "batteries",
+                "val": -3.54
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "batteries",
+                "val": -3.04
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "batteries",
+                "val": -2.83
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "batteries",
+                "val": -2.99
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "batteries",
+                "val": -3.07
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "batteries",
+                "val": -3
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "batteries",
+                "val": -2.35
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "batteries",
+                "val": -2.51
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "batteries",
+                "val": -3.9
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "batteries",
+                "val": -3.78
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "batteries",
+                "val": -3.27
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "batteries",
+                "val": -3.33
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "batteries",
+                "val": -3.68
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "batteries",
+                "val": -4.32
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "batteries",
+                "val": -4.16
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "batteries",
+                "val": -3.76
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "batteries",
+                "val": -3.93
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "batteries",
+                "val": -3.32
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "batteries",
+                "val": -3.04
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "batteries",
+                "val": -3.11
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "cpo",
+                "val": 282.89
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "cpo",
+                "val": 293.53
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "cpo",
+                "val": 294.74
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "cpo",
+                "val": 299.9
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "cpo",
+                "val": 303.57
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "cpo",
+                "val": 258.26
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "cpo",
+                "val": 212.8
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "cpo",
+                "val": 212.86
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "cpo",
+                "val": 212.53
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "cpo",
+                "val": 213.89
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "cpo",
+                "val": 248.69
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "cpo",
+                "val": 319.82
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "cpo",
+                "val": 359.68
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "cpo",
+                "val": 362.6
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "cpo",
+                "val": 383.77
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "cpo",
+                "val": 422.04
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "cpo",
+                "val": 419.62
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "cpo",
+                "val": 371.69
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "cpo",
+                "val": 344.57
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "cpo",
+                "val": 343.74
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "cpo",
+                "val": 322.29
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "cpo",
+                "val": 285.41
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "cpo",
+                "val": 255.82
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "cpo",
+                "val": 223.71
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "cpo",
+                "val": 203.9
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "cpo",
+                "val": 201.22
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "cpo",
+                "val": 200.25
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "cpo",
+                "val": 200.28
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "cpo",
+                "val": 200.45
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "cpo",
+                "val": 201.37
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "cpo",
+                "val": 201.42
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "cpo",
+                "val": 201.07
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "cpo",
+                "val": 201.21
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "cpo",
+                "val": 203.48
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "cpo",
+                "val": 206.87
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "cpo",
+                "val": 209.09
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "cpo",
+                "val": 210.34
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "cpo",
+                "val": 209.35
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "cpo",
+                "val": 206.1
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "cpo",
+                "val": 204.58
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "cpo",
+                "val": 205.86
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "cpo",
+                "val": 207.88
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "cpo",
+                "val": 226.44
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "cpo",
+                "val": 263.57
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "cpo",
+                "val": 290.67
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "cpo",
+                "val": 297.75
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "cpo",
+                "val": 296.76
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "gas",
+                "val": 2040.52
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "gas",
+                "val": 1836.72
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "gas",
+                "val": 1746.19
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "gas",
+                "val": 1647.45
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "gas",
+                "val": 1520.7
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "gas",
+                "val": 1455.33
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "gas",
+                "val": 1455.63
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "gas",
+                "val": 1537.95
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "gas",
+                "val": 1697.02
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "gas",
+                "val": 1907.21
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "gas",
+                "val": 2144.11
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "gas",
+                "val": 2389.26
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "gas",
+                "val": 2513.98
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "gas",
+                "val": 2578.19
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "gas",
+                "val": 2754.45
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "gas",
+                "val": 2820.56
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "gas",
+                "val": 2729.1
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "gas",
+                "val": 2691.48
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "gas",
+                "val": 2678.2
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "gas",
+                "val": 2650.1
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "gas",
+                "val": 2656.59
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "gas",
+                "val": 2625.36
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "gas",
+                "val": 2625.93
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "gas",
+                "val": 2646.71
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "gas",
+                "val": 2633.69
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "gas",
+                "val": 2583.17
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "gas",
+                "val": 2474.89
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "gas",
+                "val": 2430.6
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "gas",
+                "val": 2438.52
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "gas",
+                "val": 2454.04
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "gas",
+                "val": 2512.35
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "gas",
+                "val": 2622.32
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "gas",
+                "val": 2708.21
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "gas",
+                "val": 2770.92
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "gas",
+                "val": 2824.06
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "gas",
+                "val": 2859.35
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "gas",
+                "val": 2879.46
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "gas",
+                "val": 2899.89
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "gas",
+                "val": 2917.92
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "gas",
+                "val": 2935.35
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "gas",
+                "val": 2965.93
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "gas",
+                "val": 2952.3
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "gas",
+                "val": 2876.07
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "gas",
+                "val": 2681.21
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "gas",
+                "val": 2450.83
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "gas",
+                "val": 2348.28
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "gas",
+                "val": 2326.67
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "hydro",
+                "val": 75.15
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "hydro",
+                "val": 75.03
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "hydro",
+                "val": 74.87
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "hydro",
+                "val": 74.27
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "hydro",
+                "val": 74.2
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "hydro",
+                "val": 74.74
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "hydro",
+                "val": 74.98
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "hydro",
+                "val": 75.61
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "hydro",
+                "val": 76.09
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "hydro",
+                "val": 75.95
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "hydro",
+                "val": 75.67
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "hydro",
+                "val": 75.29
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "hydro",
+                "val": 75.05
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "hydro",
+                "val": 76
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "hydro",
+                "val": 77.04
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "hydro",
+                "val": 76.46
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "hydro",
+                "val": 75.67
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "hydro",
+                "val": 76.19
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "hydro",
+                "val": 76.55
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "hydro",
+                "val": 77.01
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "hydro",
+                "val": 77.76
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "hydro",
+                "val": 77.43
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "hydro",
+                "val": 77.28
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "hydro",
+                "val": 77.68
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "hydro",
+                "val": 78.13
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "hydro",
+                "val": 76.17
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "hydro",
+                "val": 74.37
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "hydro",
+                "val": 75.49
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "hydro",
+                "val": 81.96
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "hydro",
+                "val": 92.82
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "hydro",
+                "val": 97.71
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "hydro",
+                "val": 97.81
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "hydro",
+                "val": 98.07
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "hydro",
+                "val": 98.39
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "hydro",
+                "val": 98.68
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "hydro",
+                "val": 97.42
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "hydro",
+                "val": 95.26
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "hydro",
+                "val": 95.04
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "hydro",
+                "val": 90.81
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "hydro",
+                "val": 80.32
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "hydro",
+                "val": 74.82
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "hydro",
+                "val": 74.95
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "hydro",
+                "val": 74.72
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "hydro",
+                "val": 74.23
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "hydro",
+                "val": 74.6
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "hydro",
+                "val": 75.97
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "hydro",
+                "val": 77.04
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "pump",
+                "val": -225.33
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "pump",
+                "val": -223.5
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "pump",
+                "val": -222.65
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "pump",
+                "val": -222.11
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "pump",
+                "val": -221.17
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "pump",
+                "val": -219.73
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "pump",
+                "val": -218.51
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "pump",
+                "val": -217.01
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "pump",
+                "val": -215.32
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "pump",
+                "val": -214.2
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "pump",
+                "val": -213.3
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "pump",
+                "val": -174.82
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "pump",
+                "val": -68.55
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "pump",
+                "val": -0.28
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "pump",
+                "val": 11.09
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "pump",
+                "val": 35.44
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "pump",
+                "val": 32.28
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "pump",
+                "val": 13.1
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "pump",
+                "val": 9.52
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "pump",
+                "val": 9.24
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "pump",
+                "val": 9.71
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "pump",
+                "val": 8.15
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "pump",
+                "val": 5.81
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "pump",
+                "val": 4.96
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "pump",
+                "val": 5.19
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "pump",
+                "val": 5.1
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "pump",
+                "val": 4.33
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "pump",
+                "val": 4.55
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "pump",
+                "val": 4.26
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "pump",
+                "val": 1.51
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "pump",
+                "val": -0.53
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "pump",
+                "val": -0.53
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "pump",
+                "val": 0.54
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "pump",
+                "val": 49.16
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "pump",
+                "val": 130.3
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "pump",
+                "val": 168.98
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "pump",
+                "val": 180.08
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "pump",
+                "val": 195.68
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "pump",
+                "val": 189.76
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "pump",
+                "val": 177.63
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "pump",
+                "val": 179.55
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "pump",
+                "val": 134.96
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "pump",
+                "val": 50.94
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "pump",
+                "val": 4.74
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "pump",
+                "val": -0.61
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "pump",
+                "val": -0.6
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "pump",
+                "val": -0.61
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "other",
+                "val": 93.69
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "other",
+                "val": 93.58
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "other",
+                "val": 94.42
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "other",
+                "val": 94.84
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "other",
+                "val": 94.96
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "other",
+                "val": 95.07
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "other",
+                "val": 94.04
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "other",
+                "val": 92.88
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "other",
+                "val": 93.4
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "other",
+                "val": 93.65
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "other",
+                "val": 93
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "other",
+                "val": 93.35
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "other",
+                "val": 93.61
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "other",
+                "val": 93.08
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "other",
+                "val": 93.57
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "other",
+                "val": 94.29
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "other",
+                "val": 94.38
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "other",
+                "val": 94.11
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "other",
+                "val": 93.88
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "other",
+                "val": 94.01
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "other",
+                "val": 94.63
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "other",
+                "val": 94.66
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "other",
+                "val": 94.29
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "other",
+                "val": 93.46
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "other",
+                "val": 93.67
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "other",
+                "val": 94.62
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "other",
+                "val": 93.63
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "other",
+                "val": 92.74
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "other",
+                "val": 93.08
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "other",
+                "val": 93.39
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "other",
+                "val": 93.34
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "other",
+                "val": 93.91
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "other",
+                "val": 94.2
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "other",
+                "val": 93.85
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "other",
+                "val": 93.89
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "other",
+                "val": 93.83
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "other",
+                "val": 93.99
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "other",
+                "val": 94.5
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "other",
+                "val": 94.64
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "other",
+                "val": 94.33
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "other",
+                "val": 93.85
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "other",
+                "val": 93.49
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "other",
+                "val": 93.87
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "other",
+                "val": 94.11
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "other",
+                "val": 94.03
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "other",
+                "val": 94.5
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "other",
+                "val": 94.7
+            },
+            {
+                "time": "00:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "01:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "01:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "02:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "02:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "03:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "03:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "04:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "04:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "05:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "05:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "06:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "06:30:00",
+                "fuel": "solar",
+                "val": 0.47
+            },
+            {
+                "time": "07:00:00",
+                "fuel": "solar",
+                "val": 4.33
+            },
+            {
+                "time": "07:30:00",
+                "fuel": "solar",
+                "val": 8.7
+            },
+            {
+                "time": "08:00:00",
+                "fuel": "solar",
+                "val": 18.3
+            },
+            {
+                "time": "08:30:00",
+                "fuel": "solar",
+                "val": 35.28
+            },
+            {
+                "time": "09:00:00",
+                "fuel": "solar",
+                "val": 53.76
+            },
+            {
+                "time": "09:30:00",
+                "fuel": "solar",
+                "val": 73.62
+            },
+            {
+                "time": "10:00:00",
+                "fuel": "solar",
+                "val": 93.2
+            },
+            {
+                "time": "10:30:00",
+                "fuel": "solar",
+                "val": 105.71
+            },
+            {
+                "time": "11:00:00",
+                "fuel": "solar",
+                "val": 108.4
+            },
+            {
+                "time": "11:30:00",
+                "fuel": "solar",
+                "val": 114.52
+            },
+            {
+                "time": "12:00:00",
+                "fuel": "solar",
+                "val": 127.71
+            },
+            {
+                "time": "12:30:00",
+                "fuel": "solar",
+                "val": 147.73
+            },
+            {
+                "time": "13:00:00",
+                "fuel": "solar",
+                "val": 158.09
+            },
+            {
+                "time": "13:30:00",
+                "fuel": "solar",
+                "val": 168.11
+            },
+            {
+                "time": "14:00:00",
+                "fuel": "solar",
+                "val": 181.65
+            },
+            {
+                "time": "14:30:00",
+                "fuel": "solar",
+                "val": 180.66
+            },
+            {
+                "time": "15:00:00",
+                "fuel": "solar",
+                "val": 173.19
+            },
+            {
+                "time": "15:30:00",
+                "fuel": "solar",
+                "val": 166.48
+            },
+            {
+                "time": "16:00:00",
+                "fuel": "solar",
+                "val": 164.74
+            },
+            {
+                "time": "16:30:00",
+                "fuel": "solar",
+                "val": 166.57
+            },
+            {
+                "time": "17:00:00",
+                "fuel": "solar",
+                "val": 164.73
+            },
+            {
+                "time": "17:30:00",
+                "fuel": "solar",
+                "val": 137.72
+            },
+            {
+                "time": "18:00:00",
+                "fuel": "solar",
+                "val": 92.44
+            },
+            {
+                "time": "18:30:00",
+                "fuel": "solar",
+                "val": 50.41
+            },
+            {
+                "time": "19:00:00",
+                "fuel": "solar",
+                "val": 24.86
+            },
+            {
+                "time": "19:30:00",
+                "fuel": "solar",
+                "val": 12.75
+            },
+            {
+                "time": "20:00:00",
+                "fuel": "solar",
+                "val": 3.7
+            },
+            {
+                "time": "20:30:00",
+                "fuel": "solar",
+                "val": 0.37
+            },
+            {
+                "time": "21:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "21:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "22:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "22:30:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "23:00:00",
+                "fuel": "solar",
+                "val": 0
+            },
+            {
+                "time": "23:30:00",
+                "fuel": "solar",
+                "val": 0
+            }
+        ]
+    }
+}
